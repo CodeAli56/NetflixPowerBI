@@ -2,7 +2,7 @@
 
 
 
-# Netflix Data Analysis Project 🎥📊  
+# Netflix Data Analysis Project
 
 Analyze Netflix’s data using **Power BI** to uncover trends and create interactive dashboards.  
 
