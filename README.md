@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/bf5229b9-ebc4-4707-8456-12489f927617)
+![image](https://github.com/user-attachments/assets/d615bf2a-4039-41a9-bea1-9e9da65b9a37)
+
 
 
 # Netflix Data Analysis Project 🎥📊  
